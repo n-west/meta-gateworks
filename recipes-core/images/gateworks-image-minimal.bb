@@ -22,7 +22,6 @@ IMAGE_INSTALL += "\
 # FLASH tools
 IMAGE_INSTALL += "\
 	mtd-utils \
-	kobs-ng \
 	"
 
 # Testing tools for i2cget, lspci etc
